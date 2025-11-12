@@ -94,11 +94,11 @@ A 3D puzzle platformer built in Unity for **UWaterloo Game Jam Fall 2025**, wher
 <h2 align="center">📫 Get in Touch</h2>
 
 <div align="center">
-  <a href="mailto:katfawaz64@gmail.com">
+  <a href="mailto:katfawaz64@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/fawaz-katranji-aa9a08267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fawazkatranji.me" target="_blank">
     <img src="https://img.shields.io/badge/Website-555555?style=for-the-badge&logo=google-chrome&logoColor=white" />
