@@ -10,15 +10,15 @@
 </div>
 
 <h3 align="center">Nanotechnology Engineering Student @ University of Waterloo</h3>
-<h4 align="center">Bridging the gap between real-world engineering and digital innovation ⚙️💡</h4>
+<h4 align="center">Engineering at the intersection of mechanics, electronics, and computation ⚙️💡</h4>
 
 <br/>
 
 <div align="left">
 
 🔭 I’m currently building a **Self-Balancing Robot**  
-⚙️ Experienced in **SolidWorks**, **3D Printing**, and **Embedded Systems**  
-🧠 Always curious about how design, control, and software blend together  
+⚙️ Hands-on experience in **mechanical design, embedded systems, and computational modeling**  
+🧪 Passionate about **prototyping, motion control, and system-level engineering**  
 🌩️ Fun fact: **Lightning bolts can be five times hotter than the Sun’s surface**
 
 </div>
@@ -29,14 +29,20 @@
 
 <div align="left">
 
-🛠️ **CNC Plotting Machine**  
-A custom-built motion-controlled plotting machine that draws vector paths with precision using stepper motors, an Arduino controller, and CAD-based design.  
+🛠️ **Two-Stage 3D‑Printed Planetary Gearbox**  
+Designed 15+ custom components, performed tolerance testing, and ran FEA simulations to validate load paths and stress concentrations. Achieved a measured system backlash of **0.6°**.
 
 🤖 **Self-Balancing Robot** *(In Progress)*  
-A two-wheel robot designed for control and balance using gyroscope feedback and PID algorithms — blending mechanical design with embedded logic.  
+A two-wheel robot using gyroscope feedback and PID control to maintain balance. Integrates mechanical design, embedded firmware, and real-time control logic.
 
-🎮 **Cat vs. Bot**  
-A 3D puzzle platformer built in Unity for **UWaterloo Game Jam Fall 2025**, where the player’s controls glitch and shuffle around — testing adaptability under chaos.  
+🦾 **Robotic Arm (4‑DOF)**  
+Fully 3D‑printed arm with coordinated servo actuation, Arduino-based control sequences, and repeatable pick‑and‑place accuracy.
+
+📝 **CNC Plotting Machine**  
+Built a 2‑axis plotter using salvaged hard‑drive actuators, custom Arduino motion firmware, limit switches, and an LCD status interface. Added RFID authentication for preset drawing routines.
+
+🎮 **Cat vs. Bot – UW Game Jam (3rd Place)**  
+Engineered the final boss using state machines, projectile logic, and real-time tracking. Built enemy systems, hazards, and platforming mechanics under a 48‑hour deadline.
 
 </div>
 
@@ -49,31 +55,33 @@ A 3D puzzle platformer built in Unity for **UWaterloo Game Jam Fall 2025**, wher
     <td width="33%" valign="top">
       <h3 align="center">🧩 Mechanical Design</h3>
       <ul>
-        <li>SolidWorks (3D Modeling, Assemblies)</li>
-        <li>3D Printing (FDM, prototyping)</li>
-        <li>Mechanical Design & Assembly</li>
-        <li>Engineering Drawing & Dimensioning</li>
-        <li>Tolerance Design</li>
-        <li>Prototyping & Testing</li>
+        <li>SOLIDWORKS (3D Modeling, Assemblies)</li>
+        <li>Engineering Drawings & Tolerancing</li>
+        <li>3D Printing (FDM/SLA)</li>
+        <li>CNC Machining</li>
+        <li>Mechanical Assembly & Prototyping</li>
+        <li>FEA Experience</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🔌 Electrical & Embedded</h3>
       <ul>
-        <li>Arduino & Microcontroller Integration</li>
+        <li>Arduino & Microcontrollers</li>
         <li>Sensors & Actuators</li>
         <li>PWM Motor Control</li>
-        <li>Circuit Soldering & Assembly</li>
+        <li>Circuit Soldering & Wiring</li>
         <li>Breadboarding & Debugging</li>
+        <li>KiCad & LTSpice</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">💻 Computational & Software</h3>
       <ul>
-        <li>Python, C, MATLAB</li>
-        <li>LaTeX (Documentation, Reports)</li>
-        <li>Unity (Simulation & Design)</li>
-        <li>Git, VS Code</li>
+        <li>Python, C, C++, C#</li>
+        <li>MATLAB & Simulink</li>
+        <li>LaTeX (Documentation & Reports)</li>
+        <li>Unity (Gameplay & Simulation)</li>
+        <li>Git & Version Control</li>
         <li>HTML, CSS, JavaScript</li>
       </ul>
     </td>
@@ -85,7 +93,7 @@ A 3D puzzle platformer built in Unity for **UWaterloo Game Jam Fall 2025**, wher
 <br/>
 
 <!-- Tool Icons -->
-<img src="https://skillicons.dev/icons?i=solidworks,arduino,python,unity,git,html,css,js,latex,vscode" />
+<img src="https://skillicons.dev/icons?i=solidworks,arduino,python,unity,git,html,css,js,latex,vscode,matlab" />
 
 </div>
 
@@ -94,8 +102,8 @@ A 3D puzzle platformer built in Unity for **UWaterloo Game Jam Fall 2025**, wher
 <h2 align="center">📫 Get in Touch</h2>
 
 <div align="center">
-  <a href="mailto:katfawaz64@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:falkatra@uwaterloo.ca" target="_blank">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/fawaz-katranji-aa9a08267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
