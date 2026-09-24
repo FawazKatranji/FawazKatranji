@@ -18,6 +18,9 @@ I learn fastest by building. Give me a tool I've never used and a problem I care
 🔁 Iterate, break, repeat: version 1 is for learning, version 30 is for showing off
 🎯 Up for a challenge? If you've got something tricky, I'm probably interested
 
+📚 Currently learning: how materials deform, bend, and (eventually) break. Very useful when you design parts for things that fly
+🛫 Next up: crossing over from structures to avionics on my plane team. New subsystem, new rabbit hole
+
 </div>
 <h2 align="center">🚀 Things I've Built</h2> <div align="left">
 🛠️ 3D-Printed Planetary Gearbox: 16:1 reduction with only 0.6° of backlash
