@@ -1,39 +1,41 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FawazKatranji.FawazKatranji" /> <h1 align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fawaz+Katranji!" /> </h1> <!-- Animated Gradient Divider --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,22,30,45&height=4&section=header&animation=fadeIn" width="65%"/> </div> <h3 align="center">Mechanical Engineering Student @ University of Waterloo</h3> <h4 align="center">Hardware, embedded systems & mechanical design: from CAD to working prototype ⚙️💡</h4> <br/> <div align="left">
-🩺 Hardware & Embedded Engineer @ NewGen Health: sole hardware engineer on an ESP32-based medical diagnostic device (rehired after co-op)
-✈️ Structures @ WAT Arrow: designing propulsion mounts and landing gear in SOLIDWORKS
-🚀 Technical Team @ Waterloo Rocketry: building a ground test chamber for staged airframe separation
-🏆 Sir Isaac Newton Physics Contest 2024: 66th in Canada, 109th worldwide
-🌩️ Fun fact: Lightning bolts can be five times hotter than the Sun's surface
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FawazKatranji.FawazKatranji" /> <h1 align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I%27m+Fawaz+Katranji!" alt="Hi There! I'm Fawaz Katranji!" /> </h1> <!-- Animated Gradient Divider --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,22,30,45&height=4&section=header&animation=fadeIn" width="65%"/> </div> <h3 align="center">Mechanical Engineering Student @ University of Waterloo</h3> <h4 align="center">Engineering at the intersection of mechanics, electronics, and computation ⚙️💡</h4> <br/> <div align="left">
+🩺 I'm currently the entire hardware team at a medical device startup (it's a team of one, but a very good one)
+✈️ Designing parts for planes that fly with WAT Arrow and chambers that blow things apart on purpose with Waterloo Rocketry
+🧪 Passionate about prototyping, motion control, and system-level engineering
+
+🔭 Side quest:
+Building a Self-Balancing Robot that falls over slightly less every day
+
+🌩️ Fun fact:
+Lightning bolts can be five times hotter than the Sun's surface
 
 </div>
-<h2 align="center">💼 Experience</h2> <div align="left">
-🩺 NewGen Health, Hardware & Embedded Engineer (May 2026 – Present)
-Took a 6-sensor ESP32 diagnostic device (Bluetooth/Wi-Fi) through 3 prototype generations and 30+ iterations, shortening it by 15–20 mm. Led the 19-part SOLIDWORKS design, replaced obsolete PCB parts in KiCad, and built prototypes with soldering, 3D printing and CNC milling.
-
-✈️ WAT Arrow, Structures Member (Mar 2026 – Present)
-Designed 5+ structural components from scratch, including propulsion mounts, clamps and landing gear, balancing weight, stiffness and manufacturability on a 20+ member team.
-
-🚀 Waterloo Rocketry, Technical Team Member (Feb 2026 – Present)
-Designing a ground-based test chamber that contains separation pressure loads so staged separation can be validated before flight.
+<h2 align="center">🎲 Fun Facts About Me</h2> <div align="center"> <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" width="90" alt="FC Barcelona crest" /> <br/><br/> <img src="https://img.shields.io/badge/Visca-Bar%C3%A7a-A50044?style=for-the-badge&labelColor=004D98" alt="Visca Barça" /> </div> <div align="left">
+🔵🔴 Die-hard Barça fan. If Barça loses, my code has more bugs that day
+🖨️ Printed 100+ parts so far. My 3D printer has seen things
+⚛️ Ranked 66th in Canada in the Sir Isaac Newton Physics Contest
+🎮 Won 3rd place at the UW Game Jam by making a cat fight a robot
+🔧 My projects start as "how hard could it be?" and end as "okay, version 30"
 
 </div>
 <h2 align="center">🚀 Featured Projects</h2> <div align="left">
-🛠️ Two-Stage 3D-Printed Planetary Gearbox
-A compact 16:1 gearbox with 15+ custom components. Refined gear and carrier geometry with FEA in SOLIDWORKS Simulation and reached a measured backlash of ~0.6°.
+🛠️ Two-Stage 3D‑Printed Planetary Gearbox
+Designed 15+ custom components, performed tolerance testing, and ran FEA simulations to validate load paths and stress concentrations. Achieved a measured system backlash of 0.6°.
+
+🤖 Self-Balancing Robot (In Progress)
+A two-wheel robot using gyroscope feedback and PID control to maintain balance. Integrates mechanical design, embedded firmware, and real-time control logic.
+
+🦾 Robotic Arm (4‑DOF)
+Fully 3D‑printed arm with coordinated servo actuation, Arduino-based control sequences, and repeatable pick‑and‑place accuracy.
 
 📝 CNC Plotting Machine
-A 2-axis plotter with custom mechanical structures, stepper drivers, servo actuation and limit switches. Runs GRBL on Arduino for homing, coordinated motion and G-code execution.
+Built a 2‑axis plotter using salvaged hard‑drive actuators, GRBL motion control on Arduino, limit switches, and an LCD status interface. Added RFID authentication for preset drawing routines.
 
-🦾 Robotic Arm (4-DOF)
-A 3D-printed manipulator with Arduino-coordinated servo control for repeatable pick-and-place. Wiring runs through the moving joints without limiting range of motion.
-
-📈 Mass-Spring-Damper Simulation
-Computational model of a mass-spring-damper system's dynamic response.
-
-🎮 Cat vs. Bot: UW Game Jam (3rd Place)
-Built the final boss with state machines, projectile logic and real-time tracking, plus enemy systems and hazards, in 48 hours.
+🎮 Cat vs. Bot – UW Game Jam (3rd Place)
+Engineered the final boss using state machines, projectile logic, and real-time tracking. Built enemy systems, hazards, and platforming mechanics under a 48‑hour deadline.
 
 </div>
-<h2 align="center">⚒️ Engineering Skill Set ⚒️</h2> <table align="center"> <tr> <td width="33%" valign="top"> <h3 align="center">🧩 Mechanical Design</h3> <ul> <li>SOLIDWORKS (3+ yrs) & Onshape</li> <li>FEA (SOLIDWORKS Simulation)</li> <li>GD&T, Drawings & Tolerance Analysis</li> <li>3D Printing (100+ parts)</li> <li>CNC Milling</li> <li>DFM & Test Fixture Design</li> </ul> </td> <td width="33%" valign="top"> <h3 align="center">🔌 Electrical & Embedded</h3> <ul> <li>Arduino & ESP32</li> <li>Bluetooth / Wi-Fi Integration</li> <li>KiCad & LTSpice</li> <li>PCB Validation & Component Selection</li> <li>Soldering, Wiring & Bring-up</li> <li>Oscilloscope & Multimeter Debugging</li> </ul> </td> <td width="33%" valign="top"> <h3 align="center">💻 Computational & Software</h3> <ul> <li>C / C++ & Python (4+ yrs)</li> <li>MATLAB (2+ yrs)</li> <li>GRBL & G-code</li> <li>Git & Version Control</li> <li>LaTeX (Documentation & Reports)</li> <li>Unity & C#</li> </ul> </td> </tr> </table> <div align="center"> <br/> <!-- Tool Icons --> <img src="https://skillicons.dev/icons?i=arduino,c,cpp,py,matlab,git,latex,unity,cs,vscode" /> </div>
-<h2 align="center">📫 Get in Touch</h2> <div align="center"> <a href="mailto:falkatra@uwaterloo.ca" target="_blank"> <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/fawaz-katranji/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://fawazkatranji.me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
+<h2 align="center">⚒️ Engineering Skill Set ⚒️</h2> <table align="center"> <tr> <td width="33%" valign="top"> <h3 align="center">🧩 Mechanical Design</h3> <ul> <li>SOLIDWORKS & Onshape</li> <li>Engineering Drawings & Tolerancing</li> <li>3D Printing (FDM/SLA)</li> <li>CNC Milling</li> <li>Mechanical Assembly & Prototyping</li> <li>FEA Experience</li> </ul> </td> <td width="33%" valign="top"> <h3 align="center">🔌 Electrical & Embedded</h3> <ul> <li>Arduino & ESP32</li> <li>Sensors & Actuators</li> <li>PWM Motor Control</li> <li>Circuit Soldering & Wiring</li> <li>Breadboarding & Debugging</li> <li>KiCad & LTSpice</li> </ul> </td> <td width="33%" valign="top"> <h3 align="center">💻 Computational & Software</h3> <ul> <li>Python, C, C++, C#</li> <li>MATLAB & Simulink</li> <li>LaTeX (Documentation & Reports)</li> <li>Unity (Gameplay & Simulation)</li> <li>Git & Version Control</li> <li>HTML, CSS, JavaScript</li> </ul> </td> </tr> </table> <div align="center"> <br/> <!-- Tool Icons --> <img src="https://skillicons.dev/icons?i=solidworks,arduino,python,unity,git,html,css,js,latex,vscode,matlab" /> </div>
+<h2 align="center">🔥 Commit Streak</h2> <div align="center"> <img src="https://streak-stats.demolab.com?user=FawazKatranji&hide_border=true&background=0D1117&stroke=5C1A00&ring=FF4500&fire=FF6A00&currStreakNum=FFB000&currStreakLabel=FF6A00&sideNums=FF4500&sideLabels=FFB000&dates=C9A27A" alt="GitHub commit streak" /> </div> <br/> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FawazKatranji/FawazKatranji/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FawazKatranji/FawazKatranji/output/github-snake.svg" /> <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/FawazKatranji/FawazKatranji/output/github-snake-dark.svg" /> </picture> </div>
+<h2 align="center">📫 Get in Touch</h2> <div align="center"> <a href="mailto:falkatra@uwaterloo.ca" target="_blank"> <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/fawaz-katranji/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://fawazkatranji.me" target="_blank"> <img src="https://img.shields.io/badge/Website-555555?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
 <h2 align="center">💬 Quotes I Live By</h2> <div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&pause=5000&size=18&color=00BFFF&center=true&vCenter=true&width=800&lines=%22Imagination+is+more+important+than+knowledge.%22+-+Albert+Einstein;%22What+I+cannot+create,+I+do+not+understand.%22+-+Richard+Feynman;%22Theory+takes+you+only+so+far.%22+-+J.+Robert+Oppenheimer" /> </div>
