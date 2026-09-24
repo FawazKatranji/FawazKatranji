@@ -14,16 +14,33 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      # Download the generator and tweak it: taller towers, no language pie chart
+      - name: Download and customize generator
+        run: |
+          git clone --depth 1 --branch v0.9.3 https://github.com/yoshi389111/github-profile-3d-contrib.git "$RUNNER_TEMP/p3d"
+          JS="$RUNNER_TEMP/p3d/dist/index.js"
+          sed -i 's|Math\.log10(cal\.contributionCount / 20 + 1) \* 144 + 3|Math.log10(cal.contributionCount / 4 + 1) * 160 + 6|' "$JS"
+          sed -i 's|^\(\s*\)pie\.createPieLanguage(svg, userInfo, 40, height - pieHeight - 70,.*$|\1/* pie chart removed */|' "$JS"
+          grep -q 'contributionCount / 4 + 1' "$JS" || { echo "Height patch failed"; exit 1; }
+          grep -q 'pie chart removed' "$JS" || { echo "Pie patch failed"; exit 1; }
+
+      - name: Generate SVG
+        run: node "$RUNNER_TEMP/p3d/dist/index.js"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-settings.json
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
+          git add profile-3d-contrib
           if git commit -m "Update 3D contributions"; then
             git push
           fi
